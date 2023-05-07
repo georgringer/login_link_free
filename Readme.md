@@ -2,6 +2,12 @@
 
 This extensions makes it possible to login into any BE or FE user by a link generated in the backend.
 
+The following screenshots show the list of backend and frontend users.
+After clicking the additional icon with the lock, a modal opens with the login link.
+
+![Backend users](Resources/Public/Screenshots/be_users.png)
+![Frontend users](Resources/Public/Screenshots/fe_users.png)
+
 ## Installation
 
 Install this extension via composer by using the following command:
